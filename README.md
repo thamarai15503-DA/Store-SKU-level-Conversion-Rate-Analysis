@@ -128,3 +128,6 @@ Power BI Dashboard Design
 Interactive Filtering & Drill-down
 
 Insight Generation for Stakeholders
+
+
+![image](https://github.com/thamarai15503-DA/Store-SKU-level-Conversion-Rate-Analysis/blob/main/1page.png)
